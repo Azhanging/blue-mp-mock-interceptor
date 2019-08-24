@@ -1,0 +1,27 @@
+{
+  "name": "blue-mp-mock-interceptor",
+  "version": "1.0.0",
+  "description": "use in mini project request interceptor",
+  "main": "blue-mp-mock-interceptor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azhanging/blue-mp-mock-interceptor.git"
+  },
+  "keywords": [
+    "mpvue",
+    "wechat mini project",
+    "request interceptor"
+  ],
+  "author": "Blue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azhanging/blue-mp-mock-interceptor/issues"
+  },
+  "homepage": "https://github.com/Azhanging/blue-mp-mock-interceptor#readme",
+  "devDependencies": {
+    "blue-utils": "^1.0.20"
+  }
+}
